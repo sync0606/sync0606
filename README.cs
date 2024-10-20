@@ -2,6 +2,7 @@ using System;
 
 internal class Program
 {
+    
     private string randomWord;
     private string guessedWord;
 
